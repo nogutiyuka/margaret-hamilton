@@ -1,0 +1,21 @@
+body{
+    font-family: Tahoma;
+    text-align: center;
+  }
+  
+  header {
+    text-transform: uppercase;
+    padding: 32px;
+    background-color: #0a0a23;
+    color: #fff;
+    border-bottom: 4px solid #fdb347;
+  }
+  
+  #image{
+          display: block;
+          max-width: 100%;
+           margin: 0 auto;
+  }
+  
+  
+  
